@@ -1,0 +1,19 @@
+.ui.container.edit-profile-container{
+    h1{
+        margin-bottom: 3%;
+    }
+    padding: 3%;
+    width: 95%;
+    height: 100%;
+    align-items: flex-start;
+
+    .form{
+        margin: 0;
+        width: 40%;
+    }
+    .save-button{
+        float: right;
+    }
+
+  
+}

@@ -1,0 +1,14 @@
+.ui.card.event-card{
+    display: block;
+    width: 70%;
+    .ui.grid{
+        .event-image{
+            padding: 0 0;
+        }
+    }
+
+    .event-details{
+        display: flex;
+        justify-content: space-between;
+    }
+}

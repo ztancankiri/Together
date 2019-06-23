@@ -1,0 +1,27 @@
+.logo{
+    width: 10rem;
+    height: 3rem;
+}
+
+.search-bar{
+    width: 50%;
+    text-align: center;
+    padding: 0 10%;
+}
+
+.user-info{
+    .ui.avatar.image{
+        margin-right: 1rem; 
+    }
+    display: flex;
+    align-items: center;
+    justify-items: start;
+    .icon{
+        margin-left: 1rem;
+    }
+    .user-name{
+        font-size: 1.3rem;
+        display: inline-block;
+        margin-bottom: 5%;
+    }
+}

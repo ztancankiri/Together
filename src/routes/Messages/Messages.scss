@@ -1,0 +1,17 @@
+.profile-card.messages-container{
+
+    .message-window{
+        max-height: 500px;
+        min-height: 300px;
+        overflow: scroll;
+        overflow-x: hidden;
+    }
+
+    .ui.form{
+        margin: 0;
+    }
+
+    .send-message-input{
+        margin-top: 4rem;
+    }
+}

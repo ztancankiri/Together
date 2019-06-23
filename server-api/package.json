@@ -1,0 +1,25 @@
+{
+    "name": "together-server-api",
+    "version": "1.0.0",
+    "description": "Restful API for Together app.",
+    "main": "app.js",
+    "scripts": {
+        "start": "nodemon app.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Zafer Tan Cankiri",
+    "license": "ISC",
+    "dependencies": {
+        "email-validator": "^2.0.4",
+        "jsonwebtoken": "^8.5.1",
+        "moment": "^2.24.0",
+        "mv": "^2.1.1",
+        "mysql": "^2.17.1",
+        "nodemon": "^1.19.0",
+        "restify": "^8.3.1",
+        "restify-cors-middleware": "^1.1.1",
+        "restify-jwt-community": "^1.0.12",
+        "util": "^0.11.1"
+    },
+    "devDependencies": {}
+}

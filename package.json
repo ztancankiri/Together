@@ -1,0 +1,47 @@
+{
+  "name": "cs353",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.18.0",
+    "faker": "^4.1.0",
+    "google-map-react": "^1.1.4",
+    "lodash": "^4.17.11",
+    "moment": "^2.24.0",
+    "rc-time-picker": "^3.6.4",
+    "react": "^16.8.5",
+    "react-avatar-editor": "^11.0.7",
+    "react-calendar": "^2.18.1",
+    "react-dom": "^16.8.5",
+    "react-dropzone": "^10.1.4",
+    "react-loading-skeleton": "^1.1.1",
+    "react-redux": "^6.0.1",
+    "react-router-dom": "^5.0.0",
+    "react-scripts": "2.1.8",
+    "react-svg": "^8.0.2",
+    "redux": "^4.0.1",
+    "semantic-ui-css": "^2.4.1",
+    "semantic-ui-react": "^0.86.0",
+    "styled-components": "^4.2.0",
+    "yarn": "^1.15.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "devDependencies": {
+    "node-sass": "^4.11.0",
+    "react-kawaii": "^0.12.0"
+  }
+}

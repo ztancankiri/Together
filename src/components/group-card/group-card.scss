@@ -1,0 +1,14 @@
+.ui.card.group-card{
+    display: block;
+    width: 70%;
+    .ui.grid{
+        .group-image{
+            padding: 0 0;
+        }
+    }
+
+    .group-details{
+        display: flex;
+        justify-content: space-between;
+    }
+}
